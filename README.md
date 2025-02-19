@@ -26,4 +26,6 @@ task-tracker-cli/
 ├─ tasklist.json         # Storage of tasks in JSON format
 └─ README.md             # Documentation of project
 
+Requires python 3.7+
+
 This project is distributed under the MIT license. For more information, see the file LICENSE.
