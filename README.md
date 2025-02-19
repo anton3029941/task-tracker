@@ -26,4 +26,4 @@ task-tracker-cli/
 ├─ tasklist.json         # Storage of tasks in JSON format
 └─ README.md             # Documentation of project
 
-Этот проект распространяется под лицензией MIT. Подробнее см. в файле LICENSE.
+This project is distributed under the MIT license. For more information, see the file LICENSE.
