@@ -16,9 +16,9 @@ Functionality
 --- Exit the application: exit
 
 Example of use
-  python <path>/main.py add buy milk
+  python {your path}/main.py add buy milk
   Id 0 assigned to task
-  python <path>/main.py list
+  python {your path}/main.py list
   0: {'task': 'buy milk', 'status': 'not done', 'date of creation': '...', 'date of update': ''}
 
 Structure of project
