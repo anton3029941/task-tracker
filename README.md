@@ -24,7 +24,7 @@ This is project from https://roadmap.sh/projects/task-tracker
 
 # Structure of project
 task-tracker-cli/  
-├─ LICENSE / license
+├─ LICENSE / license  
 ├─ task_tracker.py       / Main script of application  
 ├─ tasklist.json         / Storage of tasks in JSON format  
 └─ README.md             / Documentation of project  
